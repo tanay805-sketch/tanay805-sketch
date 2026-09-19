@@ -14,7 +14,7 @@ I'm a second-year Computer Science student at UPSIFS, exploring software enginee
 
 ### What I'm building
 
-**DigiDesk** — A productivity application I'm building to bring everyday productivity tools into one workspace.
+
 
 **Internship Readiness Dashboard** — A personal project I'm building to track my skills, learning progress, internship preparation and applications.
 
